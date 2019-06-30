@@ -1,3 +1,6 @@
+/*
+This program reads an analog value from a Dipswitch, a value from the terminal and writes them to the terminal and LEDs
+*/
 char datoanalog;
 char datoserial;
 void main() {
